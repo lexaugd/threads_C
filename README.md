@@ -1,5 +1,5 @@
 # threads_C
-copy.c is the main file, test.c is to be ignored
+copy.c is the main file, test.c is to be ignored.
 copy.c copies file data cahracter by character to a new specified file using custom number of "in" and "out" threads
 and creates a log file.
 The more threads in and out the faster it will work.
