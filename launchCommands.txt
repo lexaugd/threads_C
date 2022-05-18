@@ -1,0 +1,3 @@
+./cpy 1 1  dataset4.txt target.txt 1521 mylog.txt
+ cc -Wall -o cpy copy.c -lpthread
+
